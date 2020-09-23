@@ -1,0 +1,28 @@
+Quartus II Archive log --	F:/myTHU/EDA/20summer/BTCA/BTCA_tmp_archive.qarlog
+
+Archive:	F:/myTHU/EDA/20summer/BTCA/BTCA_tmp_archive.qar
+Date:		Sun Sep 06 17:26:01 2020
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+F:/myTHU/EDA/20summer/BTCA/BT.qsf
+F:/myTHU/EDA/20summer/BTCA/BTCA.qpf
+F:/myTHU/EDA/20summer/BTCA/HumidityControl.v
+F:/myTHU/EDA/20summer/BTCA/Rx.v
+F:/myTHU/EDA/20summer/BTCA/TOP.v
+F:/myTHU/EDA/20summer/BTCA/UART_baudrate_generator.v
+F:/myTHU/EDA/20summer/BTCA/assignment_defaults.qdf
+F:/myTHU/EDA/20summer/BTCA/incremental_db/compiled_partitions/BT.db_info
+F:/myTHU/EDA/20summer/BTCA/simulation/modelsim/TOP.vt
+F:/myTHU/EDA/20summer/BTCA/stp2.stp
+F:/myTHU/EDA/20summer/UART-Communication-on-FPGA/stp2_auto_stripped.stp
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Sep 06 17:26:02 2020
+Source archive file:	F:/myTHU/EDA/20summer/BTCA/BTCA_tmp_archive.qar
+Archive was extracted into	F:/myTHU/EDA/20summer/BTHU/
+		 - successfully.

@@ -1,0 +1,6 @@
+module Translater(RxData, Enable, Conduct);
+
+input [7:0] RxData;
+output reg Enable;
+output reg [2:0] Conduct;
+
